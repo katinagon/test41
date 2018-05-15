@@ -1,0 +1,387 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.test6.1cbmmit.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2656                
+POS_VISITOR 7078                
+POS_DAY 7795                
+POS_DOMAIN 3357                
+POS_LOGIN 3591                
+POS_ROBOT 3746                
+POS_WORMS 3977                
+POS_EMAILSENDER 4108                
+POS_EMAILRECEIVER 4251                
+POS_SESSION 8229                
+POS_SIDER 8424                
+POS_FILETYPES 4386                
+POS_DOWNLOADS 4776                
+POS_OS 5238                
+POS_BROWSER 5319                
+POS_SCREENSIZE 5522                
+POS_UNKNOWNREFERER 5596                
+POS_UNKNOWNREFERERBROWSER 5723                
+POS_ORIGIN 5805                
+POS_SEREFERRALS 5942                
+POS_PAGEREFS 6097                
+POS_SEARCHWORDS 6245                
+POS_KEYWORDS 6397                
+POS_MISC 2319                
+POS_ERRORS 6456                
+POS_CLUSTER 3447                
+POS_SIDER_404 6592                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180501201307 1 0 78020254684072
+FirstTime 0
+LastTime 20180427134337
+LastUpdate 20180501210219 1 0 0 0 0
+TotalVisits 26                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 3 3 32 0 1 25
+2 1 22 206789 0 0 0
+3 9 280 10161004 1 10 110954
+4 28 194 7050805 0 6 46208
+5 125 498 928673164 3 21 292517
+6 125 211 3093502 4 14 173076
+7 55 222 418480888 1 7 64525
+8 74 294 826063859 7 19 315109405
+9 34 37 65294421 15 17 739864004
+10 23 26 53570949 1 5 75236855
+11 5 5 36 0 0 0
+12 20 27 232773 0 4 40752
+13 3 52 649722 0 0 0
+14 86 427 427119070 1 9 86507
+15 11 40 528308 4 11 108231
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 2 90 3832081 0 3 25805
+19 5 53 1372427 0 4 40749
+20 1 1 15918 0 2 20378
+21 3 4 43013 0 4 40754
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 613 2486 2723988640
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+ia_archiver 3 75 20180411153024 3
+no_user_agent 2 14 20180403083643 0
+yandex 1 25 20180401075848 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+css 391 1707295 0 0
+woff2 12 773568 0 0
+2 6 302888737 0 0
+php 445 12989252 0 0
+1 6 588125083 0 0
+html 124 1990921 0 0
+jpg 341 17703368 0 0
+gz 6 508024772 0 0
+eot 1 68875 0 0
+png 384 21928469 0 0
+3 6 407648185 0 0
+4 6 482139779 0 0
+js 656 5564074 0 0
+jpeg 10 561636 0 0
+Unknown 1 10061 0 0
+gif 85 220163 0 0
+5 6 371644402 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/robots.txt 4 0 100
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz 2 1 110193467
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz 1 0 99019332
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz 1 0 98466588
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz 1 0 98467090
+/bitrix/backup/20180424_051058_95968579.enc.gz 1 0 101878295
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 4
+winnt 728
+Unknown 1
+winvista 48
+win7 1710
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+chrome63.0.3239.84 409
+msie8.0 22
+chrome63.0.3239.132 196
+mozilla 1
+chrome65.0.3325.146 430
+chrome66.0.3359.117 235
+msie10.0 92
+chrome65.0.3325.181 1102
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible) 20180412135540
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 54
+From1 0 0
+From2 5 5
+From3 0 0
+From4 554 2428
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 4 0
+206 19 1129941220
+500 1 0
+404 85 1256447
+301 10 3234
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/php 1 -
+/upload/iblock/ddc/ddc3f569718890517c5a483a22657d40.png 42 http://test6.1cbmmit.ru/
+/upload/iblock/c62/c623e3b7c4aa0ff6f107978e1e53c533.png 42 http://test6.1cbmmit.ru/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+90.188.253.190 310 929 857114841 20180424045708
+176.215.232.38 88 340 424232396 20180410212200
+85.115.243.56 63 230 912760417 20180404013807
+188.244.159.152 49 235 505874575 20180424054934
+85.115.243.38 42 48 9046950 20180409111339
+194.190.85.141 32 196 1025481 20180404102318
+164.215.80.105 18 185 4846340 20180404140411
+5.16.64.77 2 48 360252 20180423083756
+176.212.16.5 2 90 3832081 20180417182903
+90.188.238.104 2 90 3832082 20180418035936
+37.110.51.73 1 22 206789 20180422021851
+188.32.246.142 1 22 206788 20180418134600
+52.1.11.160 1 1 93655 20180412135540
+5.228.129.95 1 29 349279 20180427134337
+188.32.46.206 1 22 206714 20180420061452
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20180402 2 90 3832083 1
+20180403 60 226 935160506 1
+20180404 111 562 9538422 7
+20180405 211 516 845818647 2
+20180406 10 10 159723 1
+20180409 121 330 431847988 2
+20180410 36 113 2206381 2
+20180412 1 1 93655 1
+20180417 2 90 3832081 1
+20180418 3 112 4038870 2
+20180420 1 22 206714 1
+20180422 1 22 206789 1
+20180423 2 48 360252 1
+20180424 51 315 508737371 2
+20180427 1 29 349279 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 6
+15mn-30mn 2
+0s-30s 12
+2mn-5mn 2
+30s-2mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 85
+/bitrix/tools/public_session.php 94 461 1 6
+/bitrix/admin/user_options.php 79 1738 0 1
+/bitrix/admin/dump.php 77 545188 1 1
+/ 45 1009333 15 4
+/bitrix/admin/dump_list.php 43 1192667 4 4
+/bitrix/admin/ 24 434495 0 0
+/bitrix/admin/fileman_admin.php 23 797804 0 0
+/bitrix/gadgets/aspro/stroy/ajax.php 22 3344 0 0
+/bitrix/gadgets/bitrix/rssreader/getdata.php 22 7318 0 0
+/bitrix/admin/index.php 21 362705 0 0
+/catalog/ 2 21868 1 0
+/info/articles/skolko-stoit-dom-postroit/ 1 12288 0 0
+/bitrix/ 15 1245 3 0
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz.5 1 59008358 0 0
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz.1 2 200245240 0 0
+/catalog/krovelnye-materialy/krovelnyy-profnastil/ 1 11474 0 0
+/bitrix/admin/get_start_menu.php 3 22202 0 0
+/gruppa_kompani/ 2 20712 0 0
+/specpredlozheniya/skidki-na-kompleksnye-zakazy/ 1 9847 0 0
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz.5 2 129936890 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz.4 1 73943401 0 0
+/bitrix/backup/20180424_051058_95968579.enc.gz.1 1 100122934 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz.1 1 96097373 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz.5 1 59017682 0 0
+/bitrix/admin/fileman_file_edit.php 7 255965 0 0
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz.2 2 134150406 0 0
+/specpredlozheniya/sezonnoe-khranenie/ 1 9804 0 0
+/catalog/komplektuyushchie-dlya-krovli-i-fasada/ 1 9987 0 0
+/bitrix/admin/aspro.stroy_options.php 1 31665 0 0
+/catalog/fasadnye-materialy/fibrotsementnye-paneli/ 1 23971 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz.3 1 55827895 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz.4 1 73945756 0 0
+/bitrix/tools/autosave.php 5 150 0 2
+/uslugi/raschet-materialov/ 1 10450 0 0
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz.4 1 73732941 0 0
+/bitrix/backup/20180424_051058_95968579.enc.gz.3 1 79950048 0 0
+/bitrix/admin/template_edit.php 5 339193 0 0
+/catalog/fasadnye-materialy/fasadnye-paneli-wandstein/ 1 23958 0 0
+/specpredlozheniya/ 1 23194 0 0
+/price/ 1 11345 0 0
+/uslugi/ 1 9534 0 0
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz.5 1 58594824 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz.2 1 33849699 0 0
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz.2 1 33978075 0 0
+/bitrix/admin/get_menu.php 18 21781 0 0
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz.3 2 159921974 0 0
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz.3 1 56128350 0 0
+/bitrix/backup/bais.megamir38.ru_20180409_144752_full_4f0227fc.tar.gz.1 1 95561635 0 0
+/catalog/utepliteli-osp-plenki/ 1 23647 0 0
+/bitrix/backup/20180424_051058_95968579.enc.gz.5 1 65086648 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2 12 773568 0 5
+/catalog/krovelnye-materialy/rulonnye-krovelnye-materialy/ 1 10373 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz.2 1 33848360 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_073737_full_68f70a93.tar.gz.3 1 55819918 0 0
+/bitrix/admin/site_admin.php 2 59610 0 0
+/bitrix/admin/event_log.php 1 32862 0 0
+/bitrix/admin/template_export.php 1 8483306 0 0
+/bitrix/admin/site_edit.php 2 67348 0 0
+/galereya/ 7 95648 0 1
+/bitrix_server_test.php 1 30929 0 1
+/bitrix/backup/bais.megamir38.ru_20180403_084554_full_7b8eff07.enc.gz.4 2 173677506 0 0
+/catalog/vodostochnye-sistemy-i-vodootvod/ 3 29931 0 0
+/garantii-i-vozvrat/garantii/ 1 11691 0 0
+/info/articles/ 1 10042 0 0
+/bitrix/backup/bais.megamir38.ru_20180405_053507_full_da81e055.tar.gz.1 1 96097901 0 0
+/catalog/fasadnye-materialy/sayding-vinilovyy/ 1 23930 0 0
+/bitrix/backup/20180424_051058_95968579.enc.gz.4 1 86840175 0 0
+/bitrix/admin/sql.php 1 30000 0 0
+/bitrix/admin/update_system.php 1 34079 0 0
+/bitrix/admin/settings.php 5 138041 1 0
+/bitrix/backup/20180424_051058_95968579.enc.gz.2 1 67062197 0 0
+/contacts/ 1 11305 0 0
+/catalog/mansardnye-okna-i-cherdachnye-lestnitsy/ 1 23691 0 0
+/bitrix/admin/fileman_html_edit.php 1 63890 0 0
+/bitrix/admin/php_command_line.php 1 211109 0 0
+/catalog/krovelnye-materialy/polimernye-membrany/ 1 10376 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.eot 1 68875 0 1
+/catalog/fasadnye-materialy/ 1 24475 0 0
+/bitrix/admin/admin_notify.php 1 22 0 0
+/catalog/krovelnye-materialy/ 4 52127 0 0
+/bitrix/admin/template_admin.php 6 177346 0 0
+/bitrix/admin/fileman_file_upload.php 1 30810 0 0
+/bitrix/admin/site_checker.php 1 47719 0 0
+/info/articles/skolko-stoit-dom-postroit/bitrix 1 10061 0 0
+/info/stock/ 2 20180 0 0
+END_SIDER

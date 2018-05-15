@@ -1,0 +1,330 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.test41.megamir38.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1999                
+POS_TIME 2678                
+POS_VISITOR 6746                
+POS_DAY 7010                
+POS_DOMAIN 3361                
+POS_LOGIN 3594                
+POS_ROBOT 3749                
+POS_WORMS 3993                
+POS_EMAILSENDER 4124                
+POS_EMAILRECEIVER 4267                
+POS_SESSION 7228                
+POS_SIDER 7411                
+POS_FILETYPES 4402                
+POS_DOWNLOADS 4669                
+POS_OS 4821                
+POS_BROWSER 4892                
+POS_SCREENSIZE 5059                
+POS_UNKNOWNREFERER 5133                
+POS_UNKNOWNREFERERBROWSER 5220                
+POS_ORIGIN 5302                
+POS_SEREFERRALS 5440                
+POS_PAGEREFS 5595                
+POS_SEARCHWORDS 5743                
+POS_KEYWORDS 5895                
+POS_MISC 2341                
+POS_ERRORS 5954                
+POS_CLUSTER 3450                
+POS_SIDER_404 6091                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180515054015 289 95780 20801481479707
+FirstTime 20180510123241
+LastTime 20180515054013
+LastUpdate 20180515060308 6 0 6 0 0
+TotalVisits 13                  
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 4 94 3865907 0 4 40447
+3 2 86 3820431 0 2 20225
+4 35 378 12776691 1 17 167362
+5 136 496 11419094 4 28 473853
+6 255 495 9679932 8 44 763563
+7 140 301 7511703 3 37 660057
+8 91 177 4261476 33 60 2611647425
+9 142 302 3249413 2 45 888383
+10 317 499 8061301 38 64 624438
+11 174 236 5383151 0 11 270579
+12 13 13 67349 4 8 106
+13 12 12 21331 0 5 125
+14 55 55 3374996 318 320 50
+15 11 11 785998 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 3 75
+18 1 1 70859 0 1 5430
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 1 44 333624 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1389 3200 74683256
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 65 2296060322 20180514082610 0
+yandex 10 250 20180514133124 10
+ia_archiver 5 125 20180514173501 5
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 416 1778774 0 0
+png 405 22713410 0 0
+woff2 14 902496 0 0
+php 1159 19385380 0 0
+html 213 5081207 0 0
+js 487 4379118 0 0
+jpg 342 19374474 0 0
+jpeg 11 686444 0 0
+Unknown 3 80560 0 0
+gif 150 301393 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/robots.txt 15 0 375
+/bitrix/backup/bais.megamir38.ru_20180514_081330_full_57901dfb.tar.gz 2 0 98650865
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+winnt 44
+winvista 2976
+win7 180
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+chrome64.0.3282.186 2879
+chrome66.0.3359.139 86
+chrome66.0.3359.170 94
+chrome66.0.3359.117 97
+chrome65.0.3325.181 44
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 77 77
+From1 0 0
+From2 1 1
+From3 0 0
+From4 1311 3122
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 1 35
+302 333 0
+206 7 315052765
+301 5 1635
+404 211 4392686
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/bitrix/backup/bais.megamir38.ru_20180514_081330_full_57901dfb.tar.gz.10 1 -
+//bitrix_htaccess_test/test_file.php 1 -
+/upload/iblock/ddc/ddc3f569718890517c5a483a22657d40.png 104 http://test41.megamir38.ru/
+/README.txt 1 http://test41.megamir38.ru/README.txt
+/upload/iblock/c62/c623e3b7c4aa0ff6f107978e1e53c533.png 104 http://test41.megamir38.ru/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+178.184.64.195 1381 2976 66674454 20180515054013 20180515042522 /
+90.188.253.190 4 94 3865907 20180514023248
+94.158.15.17 3 86 3809271 20180511085857
+128.69.222.231 1 44 333624 20180513223346
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20180510 92 92 4320533 2
+20180511 587 1050 20544110 3
+20180512 396 776 15290607 1
+20180513 201 473 8946369 2
+20180514 92 527 17162585 4
+20180515 21 282 8419052 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 5
+5mn-15mn 1
+0s-30s 3
+2mn-5mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/bitrix/admin/fileman_admin.php 283 6596797 0 0
+/bitrix/admin/user_options.php 133 2926 0 0
+/bitrix/admin/site_checker.php 132 177470 0 0
+/bitrix/tools/public_session.php 121 359 0 3
+/ 116 3131082 9 2
+/bitrix/admin/fileman_file_edit.php 86 3269074 0 0
+/restore.php 82 4751968 2 2
+/bitrix/admin/get_menu.php 45 55530 0 0
+/bitrix/admin/fileman_file_view.php 36 1275588 0 0
+/bitrix/admin/ 26 564479 0 0
+/bitrix/ 8 664 1 0
+/catalog/ 14 311884 0 0
+/company/ 1 9562 0 0
+/galereya/ 22 568898 0 0
+/bitrix_server_test.php 11 67323 0 0
+/services/ 3 78079 0 0
+/bitrix/admin/dump.php 15 110617 0 0
+/catalog/krovelnye-materialy/keramicheskaya-cherepitsa/ 1 11825 0 0
+/bitrix/admin/iblock_templates.ajax.php 16 7884 0 0
+/bitrix/admin/iblock_edit.php 7 504949 0 0
+/bitrix/admin/public_file_edit.php 5 97666 0 0
+/bitrix/admin/get_search.php 25 9270 0 1
+/bitrix/admin/module_admin.php 1 29649 0 0
+/bitrix/admin/settings.php 3 113154 0 0
+/bitrix/admin/fileman_file_download.php 3 218425 0 0
+/catalog/mansardnye-okna-i-cherdachnye-lestnitsy/ 1 9912 0 0
+/bitrix/gadgets/bitrix/rssreader/getdata.php 20 6650 0 0
+/bitrix/admin/fileman_html_edit.php 8 533784 0 0
+/catalog/fasadnye-materialy/fassadnye-metallicheskie-kassety/ 1 10219 0 0
+/catalog/fasadnye-materialy/sayding-metallicheskiy/ 1 10216 0 0
+/bitrix/admin/iblock_element_edit.php 11 566327 0 0
+/bitrix/tools/autosave.php 18 540 0 0
+/bitrix/admin/index.php 12 143202 0 0
+/search/ 1 23778 0 0
+/bitrix/admin/iblock_edit_property.php 1 12432 0 0
+/.filemgr-tmp/restore.php 1 66 0 0
+/bitrix/admin/template_edit.php 1 62138 0 0
+/catalog/izdeliya-iz-tonkolistovogo-metalla/ 1 9898 0 1
+/info/news/ 1 30815 0 0
+/services/stroitelnaya-kompaniya/ 3 99974 0 0
+/catalog/fasadnye-materialy/ 2 21549 0 1
+/bitrix/admin/iblock_type_admin.php 1 30869 0 0
+/ajax/form.php 1 8874 0 0
+/bitrix/admin/admin_notify.php 3 66 0 0
+/bitrix/admin/template_admin.php 1 29551 0 0
+/specpredlozheniya/ 2 38802 0 0
+/catalog/krovelnye-materialy/ 2 25853 0 0
+/bitrix/admin/file_dialog.php 2 6724 0 0
+/bitrix/admin/iblock_admin.php 3 97677 0 0
+/uslugi/ 5 103665 0 0
+/bitrix/admin/fileman_menu_edit.php 1 34580 0 0
+/catalog/fasadnye-materialy/metallicheskiy-sayding/fasadnaya-panel-gofrirovannaya/ 1 10145 1 1
+/bitrix/admin/public_menu_edit.php 9 75731 0 0
+/bitrix/admin/public_folder_edit.php 1 5572 0 0
+/bitrix/admin/public_file_edit_src.php 15 93839 0 0
+/bitrix/admin/component_props.php 14 140309 0 0
+/bitrix/admin/fileman_folder.php 1 32113 0 0
+/catalog/utepliteli-osp-plenki/ 1 9908 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2 14 902496 0 1
+/bitrix/gadgets/aspro/stroy/ajax.php 20 3040 0 0
+/bitrix/admin/dump_list.php 10 184683 0 0
+/bitrix/admin/iblock_convert.php 1 27964 0 0
+/bitrix/admin/%3C 3 80560 0 0
+END_SIDER
