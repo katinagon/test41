@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001526026909';
-$dateexpire = '001526126909';
+$datecreate = '001526381129';
+$dateexpire = '001526481129';
 $ser_content = 'a:2:{s:7:"CONTENT";s:2255:"<div class="bx_item_detail_inc_two profit_block">
 
 <h4 class="title_block">Почему выбирают нас</h4>

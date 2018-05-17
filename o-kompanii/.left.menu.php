@@ -8,6 +8,13 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"Сотрудники компании", 
+		"/o-kompanii/sotrudniki-kompanii.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Преимущества", 
 		"/o-kompanii/preimushchestva/", 
 		Array(), 

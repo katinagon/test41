@@ -927,3 +927,81 @@
 2018-05-15 04:55:43 -  - exec CUpdateClientPartner::GetHTTPPage
 2018-05-15 04:55:43 -  - TIME GetUpdatesList(request) 0.188 sec
 2018-05-15 04:55:43 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 07:58:22 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 07:58:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 07:58:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 07:58:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 07:58:22 -  - TIME GetUpdatesList(request) 0.214 sec
+2018-05-15 07:58:22 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 08:00:06 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 08:00:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 08:00:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 08:00:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 08:00:06 -  - TIME GetUpdatesList(request) 0.351 sec
+2018-05-15 08:00:06 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 11:34:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 11:34:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 11:34:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 11:34:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 11:34:39 -  - TIME GetUpdatesList(request) 0.347 sec
+2018-05-15 11:34:39 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 11:45:31 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 11:45:31 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 11:45:31 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 11:45:31 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 11:45:31 -  - TIME GetUpdatesList(request) 0.228 sec
+2018-05-15 11:45:31 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 12:37:14 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 12:37:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 12:37:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 12:37:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 12:37:14 -  - TIME GetUpdatesList(request) 0.227 sec
+2018-05-15 12:37:14 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-15 13:27:22 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-15 13:27:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-15 13:27:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-15 13:27:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-15 13:27:22 -  - TIME GetUpdatesList(request) 0.235 sec
+2018-05-15 13:27:22 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-16 04:40:31 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-16 04:40:31 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-16 04:40:31 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-16 04:40:31 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-16 04:40:32 -  - TIME GetUpdatesList(request) 0.553 sec
+2018-05-16 04:40:32 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-16 09:54:16 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-16 09:54:16 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-16 09:54:16 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-16 09:54:16 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-16 09:54:16 -  - TIME GetUpdatesList(request) 0.227 sec
+2018-05-16 09:54:16 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-16 10:06:15 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-16 10:06:15 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-16 10:06:15 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-16 10:06:15 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-16 10:06:15 -  - TIME GetUpdatesList(request) 0.229 sec
+2018-05-16 10:06:15 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-16 10:23:17 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-16 10:23:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-16 10:23:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-16 10:23:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-16 10:23:17 -  - TIME GetUpdatesList(request) 0.24 sec
+2018-05-16 10:23:17 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-16 10:36:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-16 10:36:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-16 10:36:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-16 10:36:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-16 10:36:13 -  - TIME GetUpdatesList(request) 0.283 sec
+2018-05-16 10:36:13 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-17 04:03:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-17 04:03:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-17 04:03:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-17 04:03:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-17 04:03:27 -  - TIME GetUpdatesList(request) 0.592 sec
+2018-05-17 04:03:27 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-17 04:06:09 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-17 04:06:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-17 04:06:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test41.megamir38.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=F&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.6.39&instm=main%2C16.5.4%2CN%3Bcompression%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Baspro.stroy%2C1.0.1%2CN%3Bseo%2C16.0.3%2CN%3Bscale%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bsocialservices%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrix.siteinfoportal%2C15.0.0%2CN%3Bsecurity%2C16.0.3%2CN%3Bbitrix.sitepersonal%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bforum%2C16.5.2%2CN%3Bsearch%2C16.0.0%2CN%3Bblog%2C16.5.5%2CN%3Bform%2C15.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bmobileapp%2C16.0.5%2CN%3Bvote%2C15.5.0%2CN&reqm=aspro.stroy&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2018-05-17 04:06:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-17 04:06:09 -  - TIME GetUpdatesList(request) 0.206 sec
+2018-05-17 04:06:09 -  - exec CUpdateClientPartner::ParseServerData

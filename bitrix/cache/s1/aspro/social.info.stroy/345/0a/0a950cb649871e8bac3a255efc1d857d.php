@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001526182323';
-$dateexpire = '001529782323';
+$datecreate = '001526457497';
+$dateexpire = '001530057497';
 $ser_content = 'a:2:{s:7:"CONTENT";s:1452:"<div class="social-icons">
 	<!-- noindex -->
 	<ul>
